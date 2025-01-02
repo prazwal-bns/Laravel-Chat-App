@@ -4,6 +4,9 @@ A real-time chat application built using **Laravel** for the backend and **React
 
 ---
 
+# Demo
+![gg](https://github.com/user-attachments/assets/11ca07fd-b8fc-443d-8389-ca7afb1c472e)
+
 ## Features
 
 - Real-time messaging with Laravel Echo and Pusher.
