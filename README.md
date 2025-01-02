@@ -4,8 +4,9 @@ A real-time chat application built using **Laravel** for the backend and **React
 
 ---
 
-# Demo
+# Demo Video
 ![gg](https://github.com/user-attachments/assets/11ca07fd-b8fc-443d-8389-ca7afb1c472e)
+https://screenrec.com/share/TZ6mPfECqM
 
 ## Features
 

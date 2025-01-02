@@ -16,12 +16,12 @@ class DatabaseSeeder extends Seeder
         // User::factory(10)->create();
 
         User::factory()->create([
-            'name' => 'User 1',
+            'name' => 'Prajwal Bns',
             'email' => 'user1@gmail.com',
         ]);
 
         User::factory()->create([
-            'name' => 'User 2',
+            'name' => 'Hari Thapa',
             'email' => 'user2@gmail.com',
         ]);
     }
